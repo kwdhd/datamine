@@ -15,4 +15,10 @@
 	<natures>
 		<nature>org.python.pydev.pythonNature</nature>
 	</natures>
+	<variableList>
+		<variable>
+			<name>pytesser</name>
+			<value>file:/D:/Python27/Lib/pytesser</value>
+		</variable>
+	</variableList>
 </projectDescription>

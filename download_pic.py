@@ -5,6 +5,7 @@ import sys,os
 from pytesser import *
 
 
+
 def download_pic(url,num):
     for i in range(num):   
         print "download", i  
